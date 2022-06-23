@@ -19,4 +19,4 @@
 - Shashank Swaminathan ('22)
 - Sam Cabrera Valencia ('23)
 - Lilly Novak ('22)
-- 
+- Sander Miller ('22)
